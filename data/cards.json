@@ -1,0 +1,772 @@
+[
+  {
+    "id": "origin-24",
+    "generationId": "origin",
+    "rarity": "b",
+    "index": 24,
+    "quantities": {
+      "normal": 2175,
+      "superShiny": 9,
+      "shiny": 186
+    }
+  },
+  {
+    "index": 30,
+    "generationId": "origin",
+    "id": "origin-30",
+    "quantities": {
+      "normal": 4003,
+      "shiny": 304,
+      "superShiny": 16
+    },
+    "rarity": "c"
+  },
+  {
+    "generationId": "origin",
+    "quantities": {
+      "superShiny": 3,
+      "shiny": 20,
+      "normal": 261
+    },
+    "index": 28,
+    "id": "origin-28",
+    "rarity": "a"
+  },
+  {
+    "id": "origin-34",
+    "rarity": "c",
+    "quantities": {
+      "shiny": 302,
+      "superShiny": 20,
+      "normal": 4096
+    },
+    "generationId": "origin",
+    "index": 34
+  },
+  {
+    "quantities": {
+      "shiny": 308,
+      "superShiny": 18,
+      "normal": 4097
+    },
+    "rarity": "c",
+    "index": 13,
+    "generationId": "origin",
+    "id": "origin-13"
+  },
+  {
+    "id": "origin-22",
+    "quantities": {
+      "shiny": 163,
+      "normal": 2168,
+      "superShiny": 6
+    },
+    "index": 22,
+    "rarity": "b",
+    "generationId": "origin"
+  },
+  {
+    "quantities": {
+      "normal": 4170,
+      "superShiny": 19,
+      "shiny": 294
+    },
+    "id": "origin-39",
+    "rarity": "c",
+    "generationId": "origin",
+    "index": 39
+  },
+  {
+    "rarity": "d",
+    "generationId": "promo",
+    "id": "promo-11",
+    "quantities": {
+      "shiny": 8,
+      "superShiny": 2,
+      "normal": 189
+    },
+    "index": 11
+  },
+  {
+    "index": 27,
+    "rarity": "c",
+    "generationId": "origin",
+    "quantities": {
+      "shiny": 291,
+      "normal": 4000,
+      "superShiny": 12
+    },
+    "id": "origin-27"
+  },
+  {
+    "rarity": "c",
+    "index": 18,
+    "generationId": "origin",
+    "id": "origin-18",
+    "quantities": {
+      "normal": 4053,
+      "shiny": 318,
+      "superShiny": 11
+    }
+  },
+  {
+    "quantities": {
+      "normal": 2197,
+      "superShiny": 11,
+      "shiny": 177
+    },
+    "id": "origin-11",
+    "rarity": "b",
+    "index": 11,
+    "generationId": "origin"
+  },
+  {
+    "index": 23,
+    "quantities": {
+      "normal": 4263,
+      "shiny": 286,
+      "superShiny": 14
+    },
+    "id": "origin-23",
+    "rarity": "c",
+    "generationId": "origin"
+  },
+  {
+    "generationId": "origin",
+    "id": "origin-1",
+    "quantities": {
+      "superShiny": 6,
+      "shiny": 106,
+      "normal": 2269
+    },
+    "rarity": "d",
+    "index": 1
+  },
+  {
+    "rarity": "c",
+    "quantities": {
+      "superShiny": 17,
+      "shiny": 280,
+      "normal": 4103
+    },
+    "generationId": "origin",
+    "id": "origin-35",
+    "index": 35
+  },
+  {
+    "id": "promo-4",
+    "generationId": "promo",
+    "rarity": "b",
+    "quantities": {
+      "normal": 686,
+      "shiny": 27,
+      "superShiny": 0
+    },
+    "index": 4
+  },
+  {
+    "rarity": "b",
+    "id": "origin-15",
+    "index": 15,
+    "generationId": "origin",
+    "quantities": {
+      "normal": 2198,
+      "shiny": 144,
+      "superShiny": 11
+    }
+  },
+  {
+    "rarity": "c",
+    "id": "origin-10",
+    "quantities": {
+      "normal": 4113,
+      "shiny": 285,
+      "superShiny": 19
+    },
+    "generationId": "origin",
+    "index": 10
+  },
+  {
+    "quantities": {
+      "normal": 4035,
+      "superShiny": 19,
+      "shiny": 329
+    },
+    "id": "origin-14",
+    "rarity": "c",
+    "index": 14,
+    "generationId": "origin"
+  },
+  {
+    "rarity": "d",
+    "generationId": "promo",
+    "id": "promo-2",
+    "quantities": {
+      "superShiny": 3,
+      "shiny": 65,
+      "normal": 2135
+    },
+    "index": 2
+  },
+  {
+    "index": 31,
+    "id": "origin-31",
+    "generationId": "origin",
+    "rarity": "a",
+    "quantities": {
+      "shiny": 14,
+      "normal": 280,
+      "superShiny": 0
+    }
+  },
+  {
+    "quantities": {
+      "normal": 2153,
+      "shiny": 164,
+      "superShiny": 6
+    },
+    "rarity": "b",
+    "index": 36,
+    "generationId": "origin",
+    "id": "origin-36"
+  },
+  {
+    "generationId": "promo",
+    "index": 3,
+    "rarity": "c",
+    "id": "promo-3",
+    "quantities": {
+      "superShiny": 5,
+      "shiny": 63,
+      "normal": 1404
+    }
+  },
+  {
+    "quantities": {
+      "superShiny": 2,
+      "shiny": 105,
+      "normal": 2259
+    },
+    "index": 33,
+    "generationId": "origin",
+    "id": "origin-33",
+    "rarity": "d"
+  },
+  {
+    "rarity": "d",
+    "generationId": "origin",
+    "id": "origin-8",
+    "quantities": {
+      "normal": 2278,
+      "shiny": 114,
+      "superShiny": 4
+    },
+    "index": 8
+  },
+  {
+    "quantities": {
+      "normal": 4173,
+      "shiny": 270,
+      "superShiny": 15
+    },
+    "index": 40,
+    "generationId": "origin",
+    "id": "origin-40",
+    "rarity": "c"
+  },
+  {
+    "id": "origin-20",
+    "generationId": "origin",
+    "index": 20,
+    "quantities": {
+      "shiny": 96,
+      "superShiny": 7,
+      "normal": 2225
+    },
+    "rarity": "d"
+  },
+  {
+    "rarity": "d",
+    "id": "origin-12",
+    "index": 12,
+    "quantities": {
+      "normal": 2234,
+      "shiny": 97,
+      "superShiny": 7
+    },
+    "generationId": "origin"
+  },
+  {
+    "generationId": "origin",
+    "quantities": {
+      "shiny": 89,
+      "normal": 2261,
+      "superShiny": 1
+    },
+    "id": "origin-2",
+    "rarity": "d",
+    "index": 2
+  },
+  {
+    "generationId": "origin",
+    "quantities": {
+      "normal": 2145,
+      "shiny": 94,
+      "superShiny": 5
+    },
+    "rarity": "d",
+    "id": "origin-16",
+    "index": 16
+  },
+  {
+    "quantities": {
+      "shiny": 98,
+      "normal": 2287,
+      "superShiny": 2
+    },
+    "generationId": "origin",
+    "rarity": "d",
+    "index": 21,
+    "id": "origin-21"
+  },
+  {
+    "rarity": "d",
+    "quantities": {
+      "superShiny": 7,
+      "shiny": 119,
+      "normal": 2214
+    },
+    "index": 26,
+    "id": "origin-26",
+    "generationId": "origin"
+  },
+  {
+    "rarity": "d",
+    "id": "origin-9",
+    "index": 9,
+    "quantities": {
+      "normal": 2252,
+      "shiny": 79,
+      "superShiny": 5
+    },
+    "generationId": "origin"
+  },
+  {
+    "rarity": "d",
+    "index": 19,
+    "quantities": {
+      "superShiny": 4,
+      "shiny": 109,
+      "normal": 2183
+    },
+    "id": "origin-19",
+    "generationId": "origin"
+  },
+  {
+    "quantities": {
+      "superShiny": 5,
+      "normal": 2206,
+      "shiny": 90
+    },
+    "generationId": "origin",
+    "index": 38,
+    "rarity": "d",
+    "id": "origin-38"
+  },
+  {
+    "generationId": "origin",
+    "quantities": {
+      "normal": 2222,
+      "shiny": 93,
+      "superShiny": 2
+    },
+    "id": "origin-3",
+    "rarity": "d",
+    "index": 3
+  },
+  {
+    "index": 24,
+    "rarity": "d",
+    "generationId": "promo",
+    "quantities": {
+      "normal": 251,
+      "shiny": 9,
+      "superShiny": 0
+    },
+    "id": "promo-24"
+  },
+  {
+    "quantities": {
+      "normal": 2198,
+      "superShiny": 7,
+      "shiny": 155
+    },
+    "index": 5,
+    "generationId": "origin",
+    "rarity": "b",
+    "id": "origin-5"
+  },
+  {
+    "index": 6,
+    "quantities": {
+      "normal": 2166,
+      "shiny": 172,
+      "superShiny": 10
+    },
+    "generationId": "origin",
+    "rarity": "b",
+    "id": "origin-6"
+  },
+  {
+    "generationId": "origin",
+    "index": 37,
+    "id": "origin-37",
+    "quantities": {
+      "shiny": 181,
+      "normal": 2174,
+      "superShiny": 10
+    },
+    "rarity": "b"
+  },
+  {
+    "id": "origin-25",
+    "generationId": "origin",
+    "rarity": "b",
+    "index": 25,
+    "quantities": {
+      "shiny": 174,
+      "normal": 2247,
+      "superShiny": 11
+    }
+  },
+  {
+    "id": "origin-32",
+    "generationId": "origin",
+    "index": 32,
+    "rarity": "a",
+    "quantities": {
+      "superShiny": 0,
+      "normal": 276,
+      "shiny": 23
+    }
+  },
+  {
+    "generationId": "origin",
+    "index": 17,
+    "rarity": "a",
+    "quantities": {
+      "shiny": 17,
+      "superShiny": 1,
+      "normal": 271
+    },
+    "id": "origin-17"
+  },
+  {
+    "id": "origin-7",
+    "index": 7,
+    "rarity": "a",
+    "quantities": {
+      "shiny": 18,
+      "normal": 283,
+      "superShiny": 0
+    },
+    "generationId": "origin"
+  },
+  {
+    "rarity": "d",
+    "quantities": {
+      "superShiny": 0,
+      "normal": 5,
+      "shiny": 0
+    },
+    "index": 18,
+    "generationId": "promo",
+    "id": "promo-18"
+  },
+  {
+    "id": "origin-0",
+    "quantities": {
+      "superShiny": 0,
+      "shiny": 20,
+      "normal": 180
+    },
+    "generationId": "origin",
+    "rarity": "s",
+    "index": 0
+  },
+  {
+    "id": "origin-4",
+    "index": 4,
+    "generationId": "origin",
+    "rarity": "a",
+    "quantities": {
+      "normal": 267,
+      "superShiny": 1,
+      "shiny": 24
+    }
+  },
+  {
+    "generationId": "origin",
+    "quantities": {
+      "superShiny": 2,
+      "shiny": 18,
+      "normal": 246
+    },
+    "index": 29,
+    "id": "origin-29",
+    "rarity": "a"
+  },
+  {
+    "id": "promo-7",
+    "rarity": "d",
+    "quantities": {
+      "shiny": 3,
+      "normal": 65,
+      "superShiny": 0
+    },
+    "index": 7,
+    "generationId": "promo"
+  },
+  {
+    "quantities": {
+      "shiny": 1,
+      "superShiny": 0,
+      "normal": 3
+    },
+    "id": "promo-20",
+    "index": 20,
+    "generationId": "promo",
+    "rarity": "a"
+  },
+  {
+    "rarity": "d",
+    "index": 16,
+    "id": "promo-16",
+    "generationId": "promo",
+    "quantities": {
+      "shiny": 0,
+      "superShiny": 0,
+      "normal": 16
+    }
+  },
+  {
+    "id": "promo-10",
+    "generationId": "promo",
+    "quantities": {
+      "shiny": 0,
+      "superShiny": 0,
+      "normal": 2
+    },
+    "index": 10,
+    "rarity": "d"
+  },
+  {
+    "generationId": "promo",
+    "quantities": {
+      "normal": 322,
+      "superShiny": 0,
+      "shiny": 13
+    },
+    "index": 5,
+    "rarity": "a",
+    "id": "promo-5"
+  },
+  {
+    "id": "promo-28",
+    "rarity": "d",
+    "quantities": {
+      "normal": 370,
+      "shiny": 10,
+      "superShiny": 1
+    },
+    "index": 28,
+    "generationId": "promo"
+  },
+  {
+    "generationId": "promo",
+    "quantities": {
+      "shiny": 0,
+      "superShiny": 0,
+      "normal": 4
+    },
+    "rarity": "s",
+    "index": 0,
+    "id": "promo-0"
+  },
+  {
+    "generationId": "promo",
+    "id": "promo-6",
+    "quantities": {
+      "shiny": 0,
+      "superShiny": 0,
+      "normal": 12
+    },
+    "index": 6,
+    "rarity": "d"
+  },
+  {
+    "rarity": "a",
+    "generationId": "promo",
+    "index": 22,
+    "quantities": {
+      "superShiny": 0,
+      "shiny": 1,
+      "normal": 14
+    },
+    "id": "promo-22"
+  },
+  {
+    "generationId": "promo",
+    "index": 29,
+    "rarity": "d",
+    "id": "promo-29",
+    "quantities": {
+      "normal": 5,
+      "shiny": 0,
+      "superShiny": 0
+    }
+  },
+  {
+    "rarity": "d",
+    "index": 17,
+    "quantities": {
+      "superShiny": 0,
+      "normal": 1,
+      "shiny": 0
+    },
+    "id": "promo-17",
+    "generationId": "promo"
+  },
+  {
+    "quantities": {
+      "normal": 1,
+      "superShiny": 0,
+      "shiny": 0
+    },
+    "generationId": "promo",
+    "rarity": "d",
+    "id": "promo-19",
+    "index": 19
+  },
+  {
+    "index": 23,
+    "id": "promo-23",
+    "rarity": "a",
+    "generationId": "promo",
+    "quantities": {
+      "shiny": 0,
+      "superShiny": 0,
+      "normal": 4
+    }
+  },
+  {
+    "index": 30,
+    "quantities": {
+      "shiny": 15,
+      "normal": 387,
+      "superShiny": 0
+    },
+    "generationId": "promo",
+    "rarity": "d",
+    "id": "promo-30"
+  },
+  {
+    "quantities": {
+      "superShiny": 0,
+      "normal": 1,
+      "shiny": 0
+    },
+    "index": 12,
+    "id": "promo-12",
+    "rarity": "d",
+    "generationId": "promo"
+  },
+  {
+    "index": 34,
+    "quantities": {
+      "normal": 195,
+      "superShiny": 1,
+      "shiny": 10
+    },
+    "rarity": "d",
+    "generationId": "promo",
+    "id": "promo-34"
+  },
+  {
+    "quantities": {
+      "normal": 219,
+      "shiny": 12,
+      "superShiny": 1
+    },
+    "generationId": "promo",
+    "rarity": "d",
+    "index": 35,
+    "id": "promo-35"
+  },
+  {
+    "rarity": "d",
+    "quantities": {
+      "superShiny": 0,
+      "shiny": 0,
+      "normal": 2
+    },
+    "generationId": "promo",
+    "id": "promo-37",
+    "index": 37
+  },
+  {
+    "rarity": "d",
+    "index": 39,
+    "id": "promo-39",
+    "quantities": {
+      "superShiny": 0,
+      "shiny": 0,
+      "normal": 10
+    },
+    "generationId": "promo"
+  },
+  {
+    "id": "promo-8",
+    "quantities": {
+      "superShiny": 1,
+      "shiny": 11,
+      "normal": 176
+    },
+    "generationId": "promo",
+    "index": 8,
+    "rarity": "d"
+  },
+  {
+    "quantities": {
+      "superShiny": 0,
+      "normal": 3,
+      "shiny": 0
+    },
+    "index": 33,
+    "rarity": "a",
+    "id": "promo-33",
+    "generationId": "promo"
+  },
+  {
+    "quantities": {
+      "superShiny": 0,
+      "normal": 197,
+      "shiny": 7
+    },
+    "generationId": "promo",
+    "id": "promo-32",
+    "rarity": "d",
+    "index": 32
+  },
+  {
+    "rarity": "d",
+    "id": "promo-36",
+    "quantities": {
+      "normal": 186,
+      "superShiny": 0,
+      "shiny": 6
+    },
+    "generationId": "promo",
+    "index": 36
+  }
+]

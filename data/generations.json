@@ -1,0 +1,611 @@
+[
+  {
+    "cardNumber": 40,
+    "name": "origin",
+    "creationDate": 1630492437,
+    "id": "origin",
+    "boosters": [
+      {
+        "name": "normal",
+        "cardsQuantity": 3,
+        "shinyDrop": {
+          "superShiny": 1,
+          "total": 500,
+          "shiny": 20
+        },
+        "promoDrop": {
+          "oneCard": 50,
+          "twoCards": 1,
+          "total": 1000
+        },
+        "rarityDrop": {
+          "total": 1000,
+          "a": 10,
+          "b": 100,
+          "c": 300,
+          "s": 1
+        },
+        "shininess": 0,
+        "prices": {
+          "shells": 100,
+          "silverShells": 0
+        },
+        "id": "normal"
+      },
+      {
+        "name": "premium",
+        "prices": {
+          "shells": 1000,
+          "silverShells": 0
+        },
+        "shinyDrop": {
+          "shiny": 40,
+          "superShiny": 2,
+          "total": 500
+        },
+        "shininess": 1,
+        "promoDrop": {
+          "oneCard": 500,
+          "total": 1000,
+          "twoCards": 50
+        },
+        "rarityDrop": {
+          "total": 1000,
+          "a": 30,
+          "b": 317,
+          "s": 3,
+          "c": 650
+        },
+        "cardsQuantity": 5,
+        "id": "premium"
+      }
+    ],
+    "cards": [
+      {
+        "rarity": "s",
+        "index": 0,
+        "id": "origin-0",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 1,
+        "id": "origin-1",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 10,
+        "id": "origin-10",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 11,
+        "id": "origin-11",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 12,
+        "id": "origin-12",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 13,
+        "id": "origin-13",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 14,
+        "id": "origin-14",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 15,
+        "id": "origin-15",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 16,
+        "id": "origin-16",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 17,
+        "id": "origin-17",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 18,
+        "id": "origin-18",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 19,
+        "id": "origin-19",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 2,
+        "id": "origin-2",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 20,
+        "id": "origin-20",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 21,
+        "id": "origin-21",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 22,
+        "id": "origin-22",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 23,
+        "id": "origin-23",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 24,
+        "id": "origin-24",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 25,
+        "id": "origin-25",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 26,
+        "id": "origin-26",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 27,
+        "id": "origin-27",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 28,
+        "id": "origin-28",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 29,
+        "id": "origin-29",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 3,
+        "id": "origin-3",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 30,
+        "id": "origin-30",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 31,
+        "id": "origin-31",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 32,
+        "id": "origin-32",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 33,
+        "id": "origin-33",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 34,
+        "id": "origin-34",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 35,
+        "id": "origin-35",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 36,
+        "id": "origin-36",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 37,
+        "id": "origin-37",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 38,
+        "id": "origin-38",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 39,
+        "id": "origin-39",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 4,
+        "id": "origin-4",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "c",
+        "index": 40,
+        "id": "origin-40",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 5,
+        "id": "origin-5",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "b",
+        "index": 6,
+        "id": "origin-6",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "a",
+        "index": 7,
+        "id": "origin-7",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 8,
+        "id": "origin-8",
+        "generationId": "origin"
+      },
+      {
+        "rarity": "d",
+        "index": 9,
+        "id": "origin-9",
+        "generationId": "origin"
+      }
+    ]
+  },
+  {
+    "name": "promo",
+    "creationDate": 1630492437,
+    "cardNumber": 39,
+    "id": "promo",
+    "boosters": [
+      {
+        "cardsQuantity": 1,
+        "name": "drop",
+        "prices": {
+          "shells": 0,
+          "silverShells": 0
+        },
+        "shininess": 0,
+        "shinyDrop": {
+          "superShiny": 1,
+          "total": 500,
+          "shiny": 20
+        },
+        "rarityDrop": {
+          "total": 100,
+          "s": 1,
+          "a": 5,
+          "b": 10,
+          "c": 20
+        },
+        "id": "drop"
+      },
+      {
+        "cardsQuantity": 1,
+        "name": "normal",
+        "prices": {
+          "shells": 500,
+          "silverShells": 0
+        },
+        "promoDrop": {
+          "oneCard": 500,
+          "twoCards": 50,
+          "total": 1000
+        },
+        "rarityDrop": {
+          "a": 5,
+          "b": 10,
+          "c": 20,
+          "total": 100,
+          "s": 1
+        },
+        "shininess": 1,
+        "shinyDrop": {
+          "superShiny": 1,
+          "total": 500,
+          "shiny": 20
+        },
+        "id": "normal"
+      }
+    ],
+    "cards": [
+      {
+        "index": 0,
+        "rarity": "s",
+        "id": "promo-0",
+        "generationId": "promo"
+      },
+      {
+        "index": 1,
+        "rarity": "d",
+        "id": "promo-1",
+        "generationId": "promo"
+      },
+      {
+        "index": 10,
+        "rarity": "d",
+        "id": "promo-10",
+        "generationId": "promo"
+      },
+      {
+        "index": 11,
+        "rarity": "d",
+        "id": "promo-11",
+        "generationId": "promo"
+      },
+      {
+        "index": 12,
+        "rarity": "d",
+        "id": "promo-12",
+        "generationId": "promo"
+      },
+      {
+        "index": 13,
+        "rarity": "d",
+        "id": "promo-13",
+        "generationId": "promo"
+      },
+      {
+        "index": 14,
+        "rarity": "d",
+        "id": "promo-14",
+        "generationId": "promo"
+      },
+      {
+        "index": 15,
+        "rarity": "d",
+        "id": "promo-15",
+        "generationId": "promo"
+      },
+      {
+        "index": 16,
+        "rarity": "d",
+        "id": "promo-16",
+        "generationId": "promo"
+      },
+      {
+        "index": 17,
+        "rarity": "d",
+        "id": "promo-17",
+        "generationId": "promo"
+      },
+      {
+        "index": 18,
+        "rarity": "d",
+        "id": "promo-18",
+        "generationId": "promo"
+      },
+      {
+        "index": 19,
+        "rarity": "d",
+        "id": "promo-19",
+        "generationId": "promo"
+      },
+      {
+        "index": 2,
+        "rarity": "d",
+        "id": "promo-2",
+        "generationId": "promo"
+      },
+      {
+        "index": 20,
+        "rarity": "a",
+        "id": "promo-20",
+        "generationId": "promo"
+      },
+      {
+        "index": 21,
+        "rarity": "a",
+        "id": "promo-21",
+        "generationId": "promo"
+      },
+      {
+        "index": 22,
+        "rarity": "a",
+        "id": "promo-22",
+        "generationId": "promo"
+      },
+      {
+        "index": 23,
+        "rarity": "a",
+        "id": "promo-23",
+        "generationId": "promo"
+      },
+      {
+        "index": 24,
+        "rarity": "d",
+        "id": "promo-24",
+        "generationId": "promo"
+      },
+      {
+        "index": 25,
+        "rarity": "s",
+        "id": "promo-25",
+        "generationId": "promo"
+      },
+      {
+        "index": 26,
+        "rarity": "s",
+        "id": "promo-26",
+        "generationId": "promo"
+      },
+      {
+        "index": 27,
+        "rarity": "d",
+        "id": "promo-27",
+        "generationId": "promo"
+      },
+      {
+        "index": 28,
+        "rarity": "d",
+        "id": "promo-28",
+        "generationId": "promo"
+      },
+      {
+        "index": 29,
+        "rarity": "d",
+        "id": "promo-29",
+        "generationId": "promo"
+      },
+      {
+        "index": 3,
+        "rarity": "c",
+        "id": "promo-3",
+        "generationId": "promo"
+      },
+      {
+        "index": 30,
+        "rarity": "d",
+        "id": "promo-30",
+        "generationId": "promo"
+      },
+      {
+        "index": 31,
+        "rarity": "d",
+        "id": "promo-31",
+        "generationId": "promo"
+      },
+      {
+        "index": 32,
+        "rarity": "d",
+        "id": "promo-32",
+        "generationId": "promo"
+      },
+      {
+        "index": 33,
+        "rarity": "a",
+        "id": "promo-33",
+        "generationId": "promo"
+      },
+      {
+        "index": 34,
+        "rarity": "d",
+        "id": "promo-34",
+        "generationId": "promo"
+      },
+      {
+        "index": 35,
+        "rarity": "d",
+        "id": "promo-35",
+        "generationId": "promo"
+      },
+      {
+        "index": 36,
+        "rarity": "d",
+        "id": "promo-36",
+        "generationId": "promo"
+      },
+      {
+        "index": 37,
+        "rarity": "d",
+        "id": "promo-37",
+        "generationId": "promo"
+      },
+      {
+        "index": 38,
+        "rarity": "d",
+        "id": "promo-38",
+        "generationId": "promo"
+      },
+      {
+        "index": 39,
+        "rarity": "d",
+        "id": "promo-39",
+        "generationId": "promo"
+      },
+      {
+        "index": 4,
+        "rarity": "b",
+        "id": "promo-4",
+        "generationId": "promo"
+      },
+      {
+        "index": 5,
+        "rarity": "a",
+        "id": "promo-5",
+        "generationId": "promo"
+      },
+      {
+        "index": 6,
+        "rarity": "d",
+        "id": "promo-6",
+        "generationId": "promo"
+      },
+      {
+        "index": 7,
+        "rarity": "d",
+        "id": "promo-7",
+        "generationId": "promo"
+      },
+      {
+        "index": 8,
+        "rarity": "d",
+        "id": "promo-8",
+        "generationId": "promo"
+      },
+      {
+        "index": 9,
+        "rarity": "d",
+        "id": "promo-9",
+        "generationId": "promo"
+      }
+    ]
+  }
+]

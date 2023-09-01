@@ -1,0 +1,22 @@
+[
+    {
+      "boosterId": "premium",
+      "generationId": "origin",
+      "quantity": 10202
+    },
+    {
+      "boosterId": "normal",
+      "generationId": "origin",
+      "quantity": 17142
+    },
+    {
+      "boosterId": "normal",
+      "generationId": "promo",
+      "quantity": 18
+    },
+    {
+      "boosterId": "drop",
+      "generationId": "promo",
+      "quantity": 160
+    }
+  ]

@@ -1,0 +1,13 @@
+{
+  "pseudo": "doublenom",
+  "moneys": {
+    "shells": 1760,
+    "lastUpdateShells": 1693503314843,
+    "silverShells": 0
+  },
+  "drop": {
+    "ceiling": 8800,
+    "quantity": 480,
+    "seconds": 857
+  }
+}
